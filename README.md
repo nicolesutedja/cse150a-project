@@ -54,8 +54,9 @@ Options:
 - `--seed`: random seed for repeatability.
 - `--modes`: one or more of `standard`, `sparse`, or `entropy`.
 
-The vocabulary is loaded from `data/vocab100.txt`. The exact state enumeration
-can take some time before the first results appear.
+The vocabulary is loaded from `data/vocab100.txt`. The MDP has 81,416 reachable
+nonterminal states. The exact state enumeration can take some time before the
+first results appear.
 
 
 ## Reading the results
