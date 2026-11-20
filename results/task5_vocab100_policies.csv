@@ -1,0 +1,4 @@
+setting,policy,n,wins,win_rate,avg_guesses,avg_guesses_wins_only,worst_case,guesses_1,guesses_2,guesses_3,guesses_4,guesses_5,guesses_6,fail,repeated_guess_games
+"vocab100, uniform posterior, no noise",letter_freq_greedy,100,100,1.0,2.54,2.54,4,1,48,47,4,0,0,0,0
+"vocab100, uniform posterior, no noise",most_probable,100,100,1.0,2.72,2.72,4,1,40,45,14,0,0,0,0
+"vocab100, uniform posterior, no noise",info_gain,100,100,1.0,2.51,2.51,3,1,47,52,0,0,0,0,0
