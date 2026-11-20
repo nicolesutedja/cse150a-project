@@ -1,0 +1,4 @@
+setting,policy,n,wins,win_rate,avg_guesses,avg_guesses_wins_only,worst_case,guesses_1,guesses_2,guesses_3,guesses_4,guesses_5,guesses_6,fail,repeated_guess_games
+"full_list(targets=the 100 vocab words), uniform posterior, no noise",letter_freq_greedy,100,98,0.98,3.76,3.7143,6,0,2,41,40,13,2,2,0
+"full_list(targets=the 100 vocab words), uniform posterior, no noise",most_probable,100,97,0.97,4.33,4.2784,6,0,2,15,42,30,8,3,0
+"full_list(targets=the 100 vocab words), uniform posterior, no noise",info_gain,100,100,1.0,3.41,3.41,5,0,1,59,38,2,0,0,0
